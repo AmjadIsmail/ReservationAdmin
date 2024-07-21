@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Reservation_Admin.Models.FlightMarkup>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Markup Adults")
+            </th>
+            <th>
+                @Html.DisplayName("Chilldren")
+            </th>
+            <th>
+                @Html.DisplayName("Infant")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplyMarkup)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Airline)
+            </th>
+            <th>
+                @Html.DisplayName("Airline Discount")
+            </th>
+            <th>
+                @Html.DisplayName("Apply Discount on Airline")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meta)
+            </th>
+            <th>
+                @Html.DisplayName("Discount on Meta")
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdultMarkup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChildMarkup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InfantMarkup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplyMarkup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Airline)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountOnAirline)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplyAirlineDiscount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Meta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountOnMeta)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MarkupId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MarkupId">Details</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
