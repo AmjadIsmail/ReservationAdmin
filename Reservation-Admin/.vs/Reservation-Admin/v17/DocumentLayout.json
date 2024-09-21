@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work\\Admin-Module\\Reservation-Admin\\",
+  "WorkspaceRootPath": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\controllers\\markupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\controllers\\markupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:controllers\\markupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\markups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\markups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\markups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\markups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\markups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\markups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\markups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\markups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\markups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\markups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\markups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\markups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\markups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\markups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\markups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\models\\flightmarkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\models\\flightmarkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:models\\flightmarkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\admin-module\\reservation-admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|d:\\work\\git-adminmodule\\reservationadmin\\reservation-admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB1266BD-AEE9-417B-ADBA-CFB02232B552}|Reservation-Admin.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,68 +73,60 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:47:37.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:47:37.805Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Index.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Markups\\Index.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Index.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Index.cshtml",
               "RelativeToolTip": "Views\\Markups\\Index.cshtml",
               "ViewState": "AQIAADcAAAAAAAAAAAAiwE4AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:45:24.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:45:24.119Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Details.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Markups\\Details.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Details.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Details.cshtml",
               "RelativeToolTip": "Views\\Markups\\Details.cshtml",
               "ViewState": "AQIAACYAAAAAAAAAAAAAAEUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:43:43.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:43:43.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Create.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Markups\\Create.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Create.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Create.cshtml",
               "RelativeToolTip": "Views\\Markups\\Create.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:43:39.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:43:39.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MarkupsController.cs",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Controllers\\MarkupsController.cs",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Controllers\\MarkupsController.cs",
               "RelativeDocumentMoniker": "Controllers\\MarkupsController.cs",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Controllers\\MarkupsController.cs",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Controllers\\MarkupsController.cs",
               "RelativeToolTip": "Controllers\\MarkupsController.cs",
               "ViewState": "AQIAAJYAAAAAAAAAAAAowKgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,105 +137,97 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Program.cs",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Program.cs",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAmwBgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T07:32:06.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:32:06.393Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\appsettings.json",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\appsettings.json",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T07:32:59.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:32:59.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:47:41.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:47:41.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FlightMarkup.cs",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Models\\FlightMarkup.cs",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Models\\FlightMarkup.cs",
               "RelativeDocumentMoniker": "Models\\FlightMarkup.cs",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Models\\FlightMarkup.cs",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Models\\FlightMarkup.cs",
               "RelativeToolTip": "Models\\FlightMarkup.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T07:56:47.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:56:47.603Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Delete.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Markups\\Delete.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Delete.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Delete.cshtml",
               "RelativeToolTip": "Views\\Markups\\Delete.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAABkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:00:19.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:00:19.045Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Edit.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Markups\\Edit.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Markups\\Edit.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Markups\\Edit.cshtml",
               "RelativeToolTip": "Views\\Markups\\Edit.cshtml",
               "ViewState": "AQIAACYAAAAAAAAAAAAAADwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:00:35.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:00:35.771Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwBYAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:48:26.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:48:26.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\work\\Admin-Module\\Reservation-Admin\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\work\\Admin-Module\\Reservation-Admin\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\work\\git-AdminModule\\ReservationAdmin\\Reservation-Admin\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T07:25:52.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:25:52.059Z"
             }
           ]
         }
